@@ -1,5 +1,5 @@
 
-demo food delivery website build with HTML and CSS.
+demo food delivery website built with HTML and CSS.
 J.S used only for the mobile navigation,copyright Year in the footer, smooth scrolling and sticky navigation
 ![Screenshot 2023-05-19 154144](https://github.com/hamzi-haidar/Omnifood/assets/132144627/7681971d-dc48-4a44-bae1-1320e538575f)
 ![Screenshot 2023-05-19 154826](https://github.com/hamzi-haidar/Omnifood/assets/132144627/6940ff32-c0f7-46af-93ac-71458344c75a)
